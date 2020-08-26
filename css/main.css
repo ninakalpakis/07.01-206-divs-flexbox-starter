@@ -97,15 +97,18 @@ textarea {
 
 
 html {
-  background-color: #fff;
+  background-color: #008080;
   height: 100%;
 }
 
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Lora', sans-serif;
   padding: 2em;
-  font-size: 1.25em;
+  font-size: 1em;
   height: 100%;
+  font-style: italic;
+  text-align: center;
+  margin: 1em;
 }
 
 .wrapper {
@@ -120,12 +123,14 @@ body {
   color: #fff;
   line-height: 1.5em;
   font-size: 1.6em;
-  background-color: #f16059;
+  background-color: #008080;
   height: 300px;
   display: flex;
   width: 30%;
   justify-content: center;
   align-items: center;
+  margin: 1em;
+  border-style: dotted;
 }
 
 
